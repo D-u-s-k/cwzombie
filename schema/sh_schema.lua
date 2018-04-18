@@ -3,10 +3,8 @@ SCHEMA.introName = "CW: Zombie Roleplay"
 SCHEMA.author = "Misanaya"
 SCHEMA.desc = "Survive any way you can."
 
-nut.util.include("sh_config.lua")
 nut.util.include("sh_commands.lua")
 nut.util.includeDir("hooks")
-nut.util.include("sh_voices.lua")
 
 if (SERVER) then
 	function SCHEMA:saveObjectives()
