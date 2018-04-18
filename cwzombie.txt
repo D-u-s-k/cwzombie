@@ -1,0 +1,7 @@
+"cwzombie"{
+	"base" "nutscript"
+	"title" "CW ZombieRP"
+	"author" "Misanaya"
+	"menusystem" "1"
+	"singleplayer"
+}
