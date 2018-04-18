@@ -4,7 +4,6 @@ SCHEMA.author = "Misanaya"
 SCHEMA.desc = "Survive any way you can."
 
 nut.util.include("sh_commands.lua")
-nut.util.includeDir("hooks")
 
 if (SERVER) then
 	function SCHEMA:saveObjectives()
