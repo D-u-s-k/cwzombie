@@ -15,6 +15,5 @@
 
 function SCHEMA:LoadData()
 	self:loadVendingMachines()
-	self:loadDispensers()
 	self:loadObjectives()
 end
